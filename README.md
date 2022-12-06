@@ -1,2 +1,3 @@
 # Selection_Sort
-Pyhton Selection Sort
+
+Selection Sort with Python. Also run time calculated.
