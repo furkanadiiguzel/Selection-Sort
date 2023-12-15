@@ -19,8 +19,8 @@ The primary purpose of this program is to showcase the implementation of the sel
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/furkanadiiguzel/Selection-Sort
+   cd Selection-Sort
    ```
 
 2. **Run the Program:**
