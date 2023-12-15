@@ -25,7 +25,7 @@ The primary purpose of this program is to showcase the implementation of the sel
 
 2. **Run the Program:**
    ```bash
-   python selection_sort.py
+   python Selection_Sort.py
    ```
 
 3. **Output:**
